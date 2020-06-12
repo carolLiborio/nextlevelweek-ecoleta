@@ -1,0 +1,42 @@
+/* 
+ BOX MODEL - MODELO DE CAIXA
+ CAIXA = UM ELEMENTO HTML
+ Toda caixa tem: 
+ largura (width); altura (height); preenchimento (padding);
+ margens (margin); cor, (background-color); fundo (background);
+ maneira como é vista pelo html (display); posicionamento (position);
+ alinhamento (align);
+
+*/
+ :root{
+     --title-color: #322153;
+     --primary-color: #34cb79;
+     --principal-background: #f0f0f5;
+ }
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Roboto', sans-serif; 
+} 
+
+body{
+    background-color: #f0f0f0;
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Ubuntu', sans-serif;
+  color: var(--title-color);
+}
+
+
+

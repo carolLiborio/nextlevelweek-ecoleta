@@ -37,7 +37,6 @@
   2. Depois, no navegador, acesse < http://localhost:3000 > 
   3. Pronto! O Ecoleta estará disponível para vocẽ testar  😉
    
-
-   __________________________________________________________________________________________________________________
-       Feito  por  [carolLiborio](https://github.com/carolLiborio)
+ --------------------------------------------------------------------------------------------------
+ Feito  por  [carolLiborio](https://www.linkedin.com/in/carolinaliborio/)
    
